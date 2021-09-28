@@ -1,3 +1,7 @@
+layout: page
+title: "TEST PAGE"
+permalink: /test/
+
 ---
 youtubeId1: nBcJlo8QVHc
 ---
